@@ -1,7 +1,4 @@
-![Issues](https://img.shields.io/github/issues/cachemegifyoucan/codewarssolutions?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/codewarssolutions?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/cachemegifyoucan?style=for-the-badge)
-![Pull Requests](https://img.shields.io/github/issues-pr/cachemegifyoucan/codewarssolutions?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/cachemegifyoucan/codewarssolutions/main?style=for-the-badge)
 
 [![Profile badge](https://www.codewars.com/users/CacheMeGifYouCan/badges/large)](https://www.codewars.com/users/CacheMeGifYouCan)
@@ -12,3 +9,6 @@ In this repo, I have made a collection of all my personal solutions for the Code
 
 
 <img align="bottom" alt="GIF" height="160px" src="https://media.giphy.com/media/UVyTNF8DOsmw8/giphy.gif" />
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Ruby](https://img.shields.io/badge/-Ruby-61DAFB?style=flat-square&logo=ruby&logoColor=ffffff)

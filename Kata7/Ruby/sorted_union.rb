@@ -4,7 +4,7 @@
 # The unique numbers should be sorted by their original order, but the final array should not be sorted in numerical order.
 # Check the assertion tests for examples.
 
-# Solution
+# My Solution
 def unite_unique(*arr)
   arr[0..-1].to_a.flatten.uniq
 end

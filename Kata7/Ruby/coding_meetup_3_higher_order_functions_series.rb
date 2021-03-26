@@ -12,7 +12,7 @@ list1 = [
   { first_name: 'Jayden', last_name: 'P.', country: 'Jamaica', continent: 'Americas', age: 42, language: 'JavaScript' }
 ]
 
-# Solution
+# My Solution
 
 def is_ruby_coming(list)
   chk = false

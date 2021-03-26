@@ -8,6 +8,7 @@
 
 # FIGHT!!
 
+# My Solution
 def head_smash(arr)
   arr.class.instance_of?(Integer) ? 'This isn\'t the gym!!' : arr.empty? ? 'Gym is empty' : arr.each { |i| i.gsub!(/[O]/,' ') }
 end

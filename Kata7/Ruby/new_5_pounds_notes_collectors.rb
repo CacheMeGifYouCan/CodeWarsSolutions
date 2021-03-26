@@ -4,7 +4,7 @@
 # £5 notes you can get with that amount. If the money you've got (or do not!) doesn't allow you to get any £5 notes return 0.
 # £££ GOOD LUCK! £££
 
-# Solution
+# My Solution
 def get_new_notes(salary, bills)
   val = (salary - bills.reduce(:+)) / 5 ; val.positive? ? val : 0
 end

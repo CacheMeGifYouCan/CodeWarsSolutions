@@ -2,7 +2,7 @@
 
 # Write a function that takes a string and returns a string without the unnecessary characters.
 
-# Solution
+# My Solution
 def remove_chars(str)
   str.gsub /[^ a-z]/i, ''
 end

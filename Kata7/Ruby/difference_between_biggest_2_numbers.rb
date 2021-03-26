@@ -8,7 +8,7 @@ diff_big_2([10, 5, 2])
 # You can assume that the input array must have 2 or more elements.
 # The input array has the sort() method disabled, so you will have to solve it in another way.
 
-# Solution
+# My Solution
 def diff_big_2(arr)
   arr = arr.max(2)
   arr[0] - arr[1]

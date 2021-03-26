@@ -9,7 +9,7 @@
 # each tuple having two elements, the first one will be a digit to count, and second one, its corresponding total frequency in 
 # all the integers of the first list. This list of tuples should be ordered with the same order that the digits have in digitsList
 
-# Solution
+# My Solution
 class List
   def count_spec_digits(integer_list, digit_list)
     require 'set'

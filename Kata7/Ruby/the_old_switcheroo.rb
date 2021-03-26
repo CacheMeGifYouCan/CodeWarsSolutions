@@ -7,7 +7,7 @@ vowel_2_index('Codewars is the best site in the world') == 'C2d4w6rs 10s th15 b1
 vowel_2_index('') == ''
 # Your function should be case insensitive to the vowels.
 
-# Solution
+# My Solution
 def vowel_2_index(string)
   arr = []
   string.split('').each_with_index { |j, n| arr << j.gsub(/[aeiou]/i, (n + 1).to_s) }

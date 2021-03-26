@@ -2,7 +2,7 @@
 
 # If the sequence is empty, you should return 0.
 
-# Solution
+# My Solution
 def even_last(numbers)
   count = 0
   numbers.each_with_index { |i, index| index.to_i.even? ? count += i.to_i : 0 }

@@ -9,7 +9,7 @@
 # For example:
 # if (x) == ['a', 3] you should return [['a', 3], ['a', 3], ['a', 3]].
 
-# Solution
+# My Solution
 def explode arr
   arr2 = []
   

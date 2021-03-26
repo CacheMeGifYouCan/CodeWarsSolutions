@@ -5,7 +5,7 @@
 # hello => heggeleggleggo
 # eggs => egegggeggsegg
 
-# Solution
+# My Solution
 def heggeleggleggo(word)
   pp word.gsub /[^ aeiou]/i, '\0egg'
 end

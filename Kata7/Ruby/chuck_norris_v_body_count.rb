@@ -20,7 +20,7 @@
 
 # Ready, steady, VERIFY!!
 
-# Solution
+# My Solution
 def body_count(code)
   code =~ /[A-Z][0-9][A-Z][0-9][A-Z][0-9][A-Z][0-9][A-Z][0-9]\.\-[A-Z]\%[0-9]\.[0-9][0-9]\./ ? true : false
 end

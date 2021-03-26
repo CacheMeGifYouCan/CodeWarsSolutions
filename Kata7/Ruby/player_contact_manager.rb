@@ -12,7 +12,7 @@
 # Have at thee!
 
 
-# Solution
+# My Solution
 def player_manager(p)
   return [] if p == nil
   p.split(', ').each_slice(2).map {|(p,c)| {player: p, contact: c.to_i}}

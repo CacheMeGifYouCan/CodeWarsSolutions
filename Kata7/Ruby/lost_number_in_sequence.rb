@@ -11,6 +11,8 @@
 # If no number was deleted from the array and no difference with it, your function should return the int 0.
 
 # NOTE: N may be 1 or less (in the latter case, the first array will be []).
+
+# My Solution
 def find_deleted_number(arr, mixed_arr)
   arr.sort == mixed_arr.sort ? 0 : (arr - mixed_arr).first
 end

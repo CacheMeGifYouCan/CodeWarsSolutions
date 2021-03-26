@@ -8,7 +8,7 @@
 
 # NOTE: for this kata y isn't considered a vowel.
 
-# Solution
+# My Solution
 def disemvowel(str)
   str.gsub(/[aeiou]/i, '')
 end

@@ -4,7 +4,7 @@
 
 # You can assume all values in the array are numbers.class Array
 
-# Solution
+# My Solution
 def small_enough(arr, limit)
   arr.max <= limit
 end

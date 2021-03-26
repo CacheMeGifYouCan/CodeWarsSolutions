@@ -19,7 +19,7 @@
 # bags = 2, cap = 2
 # return --> 'Clean'
 
-# Solution
+# My Solution
 def crap(garden, bags, cap)
   count = 0
   d_count = 0

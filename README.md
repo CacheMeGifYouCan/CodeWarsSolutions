@@ -1,7 +1,7 @@
-![Stars](https://img.shields.io/github/stars/MarcusGrantee?style=for-the-badge)
-![Last Commit](https://img.shields.io/github/last-commit/marcusgrantee/codewarssolutions/main?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/MarcusAl?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/marcusal/codewarssolutions/main?style=for-the-badge)
 
-[![Profile badge](https://www.codewars.com/users/MarcusGrantee/badges/large)](https://www.codewars.com/users/MarcusGrantee)
+[![Profile badge](https://www.codewars.com/users/MarcusAl/badges/large)](https://www.codewars.com/users/MarcusAl)
 
 
 # Codewars Solutions
